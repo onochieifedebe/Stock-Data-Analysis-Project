@@ -1,7 +1,7 @@
 # Stock-Data-Analysis-Project
 
 
-I this project I will perform data analysis,visualization and calculate the stock daily return on 9 stocks.
+In this project I will perform data analysis,visualization and calculate the stock daily return on 9 stocks.
 
 
 
